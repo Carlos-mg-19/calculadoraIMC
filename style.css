@@ -1,0 +1,24 @@
+.box_container{
+    margin: auto;
+    text-align: center;
+    margin-top:30px ;
+    border: 1px solid black;
+    width: 230px;
+    height: 300px;
+}
+.resultado{
+    margin: auto;
+    margin-top: 30px;
+    border: solid 1px black;
+    width: 200px;
+    height: 100px;
+}
+
+.resultado p{
+    text-align: left;
+    text-indent: 10px;
+    font-size: 15px;
+}
+button{
+    cursor: pointer;
+}
